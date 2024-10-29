@@ -3,14 +3,23 @@
 ![sample](leetify.png)
 
 
-
 ## Requirements
 
 - [NodeJS](https://nodejs.org) v20 or +
 
+- [VisualStudioCode](https://code.visualstudio.com/)
+
 ## Installation
 
 ### Generate package
+
+![sample](terminal.png)
+
+- For testinf if you have NodeJS
+
+![sample](version.png)
+
+
 ```sh
 npm i --save-dev electron
 npm install electron-builder --save-dev
@@ -20,6 +29,6 @@ npm run build-win
 
 ### Use on Windows
 
-1. Move the executable folder `dist/Leetify-win32-x64` anywhere you like it
+1. You can found .exe in `dist/Leetify-win32-x64` 
 
 2. Run `Leetify.exe` and enjoy!
