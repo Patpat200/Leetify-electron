@@ -32,3 +32,9 @@ npm run build-win
 1. You can found .exe in `dist/Leetify-win32-x64` 
 
 2. Run `Leetify.exe` and enjoy!
+
+![sample](dist.png)
+
+![sample](win32-x64.png)
+
+![sample](exe.png)
