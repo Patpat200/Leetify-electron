@@ -15,7 +15,7 @@
 
 ![sample](terminal.png)
 
-- For testinf if you have NodeJS
+- For testing if you have NodeJS
 
 ![sample](version.png)
 
