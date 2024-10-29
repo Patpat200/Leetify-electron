@@ -12,8 +12,10 @@
 
 ### Generate package
 ```sh
-npm i
-npm run package
+npm i --save-dev electron
+npm install electron-builder --save-dev
+npm run build-win
+
 ```
 
 ### Use on Windows
