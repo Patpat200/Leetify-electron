@@ -2,6 +2,8 @@
 
 ![sample](leetify.png)
 
+![sample](GUI.png)
+
 
 ## Requirements
 
