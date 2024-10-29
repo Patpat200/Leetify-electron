@@ -40,3 +40,5 @@ npm run build-win
 ![sample](win32-x64.png)
 
 ![sample](exe.png)
+
+- [Tuto](https://youtu.be/mkYQqbDhWbg)
